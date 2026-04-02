@@ -12,7 +12,7 @@ Professzionális adatmentő szkript elhanyagolt HDD-k és SSD-k gyors, szelektí
 - **Szelektív Cache:** Az 50KB alatti felesleges cache fájlokat figyelmen kívül hagyja, de a potenciális adatokat megtartja.
 - **Torrent Kezelés:** Külön gyűjti a `.torrent` fájlokat és a félbehagyott letöltéseket.
 - **Automatizált Identifikáció:** A megadott névhez automatikusan hozzáadja az aktuális dátumot a mappa- és archívumnévben.
-- **Blacklist Kezelés:** Tanulható tiltólista a felesleges rendszerfájlok és telepítők (pl. régi böngésző setupok) kiszűrésére.
+- **Blacklist Kezelés:** Tanítható tiltólista a felesleges rendszerfájlok és telepítők (pl. régi böngésző setupok) kiszűrésére.
 - **RTS Integráció:** JSON alapú paraméterezhetőség és kettős (helyi + rendszer) logolás.
 
 ## Használat
@@ -25,6 +25,7 @@ Professzionális adatmentő szkript elhanyagolt HDD-k és SSD-k gyors, szelektí
 - `config.json`: Mentési beállítások és célútvonalak.
 - `blacklist.json`: Tiltott mappák és fájltípusok listája.
 - `delete.ps1`: (Készülőben) A mentett adatok utólagos tisztításához és a blacklist tanításához.
+- `merge.ps1`: (Készülőben) Adatfeldolgozás, összefésülés, duplikációk kezelése!
 
 ---
 *Készült az RTS (Rescue & Technical Support) projekt keretében.*
