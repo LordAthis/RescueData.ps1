@@ -1,0 +1,17 @@
+{
+    "Identifier": "",
+    "SourcePath": "",
+    "DestinationBase": "C:\\Backups",
+    "Options": {
+        "AutoMode": false,
+        "CopyDesktop": true,
+        "CopyDownloads": false,
+        "CopyDocuments": true,
+        "CopyPictures": true,
+        "CopyBrowsers": true,
+        "CopyCrypto": true,
+        "CopyTorrents": true,
+        "CompressAfter": false
+    },
+    "LastRun": ""
+}
