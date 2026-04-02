@@ -1,4 +1,4 @@
-# RTS Data Cleaning & Learning Tool (delete.ps1)
+# Data Cleaning & Learning Tool (delete.ps1)
 
 Ez a modul a kimentett adatok utólagos tisztításáért és a szűrőrendszer "tanításáért" felel. Segítségével a mentési folyamat (RescueData.ps1) egyre hatékonyabbá válik.
 
@@ -27,4 +27,4 @@ Minden futás végén (vagy önálló indításnál) a script rákérdez, hogy s
 4. Futtasd le a takarítást a `-TargetFolder` megadásával.
 
 ---
-*Az RTS keretrendszer része.*
+*Az RTS keretrendszer részeként is használható.*
