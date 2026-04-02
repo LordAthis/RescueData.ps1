@@ -49,4 +49,4 @@ A rendszer a `merge.ps1` modulon keresztül egy egyedi pontozási algoritmust (H
 - **Merge.ps1:** Az intelligens összefésülő motor.
 
 ---
-*Készült az RTS (Rescue & Technical Support) projekt keretében. Használható önállóan vagy a keretrendszer moduljaként is!*
+*Készült az RTS ([Reparing's - Tuning's - Setting's](https://github.com/LordAthis/RTS)) projekt keretében. Használható önállóan vagy a keretrendszer moduljaként is!*
