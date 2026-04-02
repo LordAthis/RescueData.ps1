@@ -1,0 +1,25 @@
+{
+    "GlobalFolderBlacklist": [
+        "$RECYCLE.BIN",
+        "System Volume Information",
+        "Windows\\Web\\Wallpaper",
+        "Windows\\WinSxS",
+        "Windows\\Servicing"
+    ],
+    "ExtensionBlacklist": [
+        ".sys",
+        ".tmp",
+        ".log",
+        ".chk"
+    ],
+    "InstallerExtensions": [
+        "setup.exe",
+        "install.exe",
+        ".msi",
+        "vcredist*.exe"
+    ],
+    "BrowserCacheRules": {
+        "MinSizeBytes": 51200,
+        "ExcludeEmptyFiles": true
+    }
+}
