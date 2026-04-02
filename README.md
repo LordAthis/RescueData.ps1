@@ -1,11 +1,9 @@
 -------------------------------
-# RescueData.ps1
+# Data Rescue Tool
 -------------------------------
 Adatmentést segítő script, amolyan "Digitális Régész"
 
 
-# RTS Data Rescue Tool
--------------------------------
 
 Professzionális adatmentő szkript elhanyagolt HDD-k és SSD-k gyors, szelektív mentéséhez. Úgy lett tervezve, hogy önállóan (szervizkörnyezetben) és az **RTS keretrendszer** moduljaként is megállja a helyét.
 
