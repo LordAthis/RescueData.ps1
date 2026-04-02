@@ -1,0 +1,20 @@
+# Mentési könyvtárak (a config.json-ban megadott alapértelmezett és egyedi mappák)
+/Backups/
+/Mentes_*/
+*_Mentes/
+*-202*
+
+# Log fájlok
+rescue_log.txt
+*.log
+
+# Ideiglenes fájlok
+*.tmp
+*.temp
+.vscode/
+
+# ZIP archívumok (a script végén keletkező mentések)
+*.zip
+
+# Felhasználóspecifikus beállítások (ha helyben módosítod a configot)
+# config.json  <-- Ezt csak akkor vedd ki a kommentből, ha a configot is titkosítani akarod
