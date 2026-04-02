@@ -1,0 +1,16 @@
+{
+    "Scoring": {
+        "NamedFolderBonus": 15,
+        "NumericFolderPenalty": 8,
+        "DeepPathBonus": 2,
+        "TrashWordPenalty": 12,
+        "TrashWords": ["ideiglenes", "temp", "tmp", "uj_mappa", "new_folder", "001", "backup"]
+    },
+    "FileRules": {
+        "MinSizeBytes": 5120,
+        "ExemptFromMinSize": [".torrent", ".txt", ".crc", ".md5", ".url", ".json"],
+        "KeepAllForExtensions": [".torrent", ".part", ".!ut"],
+        "ConflictFolder": "_Eldontendo_Manual_Review"
+    },
+    "IgnoredNamesAsContext": ["txt", "jpg", "gif", "jpeg", "png", "bmp", "mp3", "dvd"]
+}
